@@ -26,6 +26,6 @@ console.log(item50);
 var piso = objeto.piso[1];
 console.log(piso);
 
-var longitud = array.length
+var longitud = array.length;
 
-var isValidPosition = 50 >= 0 && 50 < array.length
+var isValidPosition = 50 >= 0 && 50 < array.length;

@@ -51,4 +51,6 @@ var c = 10;
 var d = 25;
 //------a--------c------b------d---------
 
-var haySolape = true;
+
+var haySolape = (a<=c || b<=c) && (a<=d || b<=d) ;
+console.log(haySolape);

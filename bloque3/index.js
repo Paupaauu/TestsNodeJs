@@ -1,4 +1,5 @@
-const readline = require('readline');
+const readline = require('readline'); //Para leer lineas que introduce el usuario
+const moment = require('moment'); //para trabajar y formatear fechar
 
 const rl = readline.createInterface({
     input: process.stdin,

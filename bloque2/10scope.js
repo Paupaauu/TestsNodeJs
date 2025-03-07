@@ -39,7 +39,7 @@ if (true) {
 
 if (true) {
     // Esto es un bloque
-    let variable = 0;
+    let variable = 0; // esta variable fuera de los {} no va a existir, si estuviera construida con var si que se podria leer desde fuera
 }
 
 while (condicion) {
